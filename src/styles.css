@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  margin: auto;
+  padding: auto;
+  text-align: center;
+  padding: 1rem;
+  width: 90vw;
+}
+
+.container-center {
+  margin: auto;
+  padding: auto;
+  text-align: center;
+  width: 30vw;
+}
